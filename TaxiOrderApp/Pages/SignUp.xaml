@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:control="clr-namespace:Bertuzzi.MAUI.MaskedEntry;assembly=Bertuzzi.MAUI.MaskedEntry"
+             x:Class="TaxiOrderApp.Pages.SignUp"
+             Title="SignUp"
+             BackgroundColor="Gray">
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Frame
+                WidthRequest="340"
+                Padding="25"
+                Margin="0, 10, 0, 0"
+                BackgroundColor="White">
+                <StackLayout
+                    Margin="0, 10, 0, 10">
+                    <Label
+                        Text="Регистрация"
+                        TextColor="#222"
+                        FontAttributes="Bold"
+                        SemanticProperties.HeadingLevel="Level2"
+                        SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                        FontSize="18"
+                        HorizontalOptions="Center" />
+                    <Entry
+                        x:Name="FIO"
+                        IsVisible="false"
+                        TextColor="#222"
+                        Placeholder="Введите ФИО"
+                        Margin="0, 15, 0, 0" />
+                    <control:MaskedEntry
+                        x:Name="PhoneEntry"
+                        Mask="+7 (xxx) xxx-xx-xx"
+                        Keyboard="Telephone"
+                        TextColor="#222"
+                        Placeholder="Введите номер телефона"
+                        Margin="0, 15, 0, 0" />
+                    <Picker
+                        x:Name="Gender"
+                        Title="Укажите ваш пол"
+                        FontSize="15"
+                        FontAttributes="Bold"
+                        TextColor="#222">
+                        <Picker.ItemsSource>
+                            <x:Array Type="{x:Type x:String}">
+                                <x:String>Женщина</x:String>
+                                <x:String>Мужчина</x:String>
+                            </x:Array>
+                        </Picker.ItemsSource>
+                    </Picker>
+                </StackLayout>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
