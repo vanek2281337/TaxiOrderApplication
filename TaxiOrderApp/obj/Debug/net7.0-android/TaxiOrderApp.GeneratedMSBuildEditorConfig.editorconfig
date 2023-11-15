@@ -12,39 +12,39 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = TaxiOrderApp
-build_property.ProjectDir = C:\Users\PREPOD-002\source\repos\TaxiOrderApp\TaxiOrderApp\
+build_property.ProjectDir = c:\Users\STUDENT-002\Desktop\Новая папка\TaxiOrderApplication\TaxiOrderApp\
 
-[C:/Users/PREPOD-002/source/repos/TaxiOrderApp/TaxiOrderApp/App.xaml]
+[c:/Users/STUDENT-002/Desktop/Новая папка/TaxiOrderApplication/TaxiOrderApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaxiOrderApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/PREPOD-002/source/repos/TaxiOrderApp/TaxiOrderApp/AppShell.xaml]
+[c:/Users/STUDENT-002/Desktop/Новая папка/TaxiOrderApplication/TaxiOrderApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaxiOrderApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/PREPOD-002/source/repos/TaxiOrderApp/TaxiOrderApp/Pages/MainPage.xaml]
+[c:/Users/STUDENT-002/Desktop/Новая папка/TaxiOrderApplication/TaxiOrderApp/Pages/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaxiOrderApp.Pages.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
 
-[C:/Users/PREPOD-002/source/repos/TaxiOrderApp/TaxiOrderApp/Pages/SignUp.xaml]
+[c:/Users/STUDENT-002/Desktop/Новая папка/TaxiOrderApplication/TaxiOrderApp/Pages/SignUp.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaxiOrderApp.Pages.SignUp.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\SignUp.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\SignUp.xaml
 
-[C:/Users/PREPOD-002/source/repos/TaxiOrderApp/TaxiOrderApp/Resources/Styles/Colors.xaml]
+[c:/Users/STUDENT-002/Desktop/Новая папка/TaxiOrderApplication/TaxiOrderApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaxiOrderApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/PREPOD-002/source/repos/TaxiOrderApp/TaxiOrderApp/Resources/Styles/Styles.xaml]
+[c:/Users/STUDENT-002/Desktop/Новая папка/TaxiOrderApplication/TaxiOrderApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaxiOrderApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
